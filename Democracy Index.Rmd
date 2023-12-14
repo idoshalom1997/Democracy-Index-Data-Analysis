@@ -1,7 +1,6 @@
 ---
 title: "LAB 1"
-author: "Daniel Rodan & Ido Shalom"
-date: "2023-06-08"
+author: "Ido Shalom"
 output:
   html_document:
     theme: spacelab
